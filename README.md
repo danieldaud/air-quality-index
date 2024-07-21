@@ -1,9 +1,3 @@
-# Project Title
-
-- Nama: Daniel E. Daud
-- Email: dnaieldaud1989@gmail.com
-- ID Dicoding: Daniel Eduardo Daud
-
 ## Menentukan Pertanyaan Bisnis
 
     1. Bagaimana rata-rata perbulan dari kadar PM2.5 di masing-masing kota?
